@@ -1,0 +1,16 @@
+.App {
+  background-color: black;
+  color: white;
+}
+
+.heading {
+  text-align: center;
+}
+
+.user-table {
+  border: 1px solid white;
+}
+
+th, td {
+  border: 1px solid white;
+}
